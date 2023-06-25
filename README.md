@@ -17,3 +17,13 @@ apt install python python2 git jq
 
 pip2 install requests mechanize
 
+git clone https://github.com/Viliyams/lion-wolf
+
+cd lion-wolf
+
+bash lion-wolf
+
+###🧿my account 🧿
+* [instagram](https://instagram.com/viliyams_patel?igshid=MzNlNGNkZWQ4Mg==)
+* [telegram](https://t.me/Lionwolf18)
+* [linktree](https://heylink.me/viliyams/)
